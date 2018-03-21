@@ -14,6 +14,7 @@ The system is required to reboot after the driver is installed, so please close 
  
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu406.png)
 
+[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/156.png)
 
 #### Download the Latest Release [➤ Wireless USB Adapter Clover.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V1)
 
