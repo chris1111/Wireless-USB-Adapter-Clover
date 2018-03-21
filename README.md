@@ -15,9 +15,7 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu406.png)
 
 
-##### Instructions: You need Existing Clover V2.4k. UEFI or ESP This does not install Clover, it will install only both kext RtWlanU1827.kext, RtWlanU.kext in the Other folder.
-
-#### Download the Latest Release [➤ Wireless USB Adapter Clover.pkg ]()
+#### Download the Latest Release [➤ Wireless USB Adapter Clover.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V1)
 
 #### - Support Drivers:
 - 8723BU
