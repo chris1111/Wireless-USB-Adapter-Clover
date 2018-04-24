@@ -24,50 +24,13 @@ The system is required to reboot after the driver is installed, so please close 
 #### Download the Latest Release [➤ Wireless USB Adapter Clover.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V1)
 
 #### - Support Drivers:
-- 8723BU
-- 8821AU
-- ASUS_USB-N10E_92CU
-- ASUS_USB-N10_92CU
-- ASUS_USB-N13_92CU
-- ASUS_USB-AC56_8812AU
-- ASUS_USB-AC68_8814AU 
-- AboCom_0811_8812AU
-- AboCom_88EU
-- AboCom_AC_8812AU
-- Actiontec_8811AU
-- AirTies_Air2520_8811AU
-- AirTies_Air2525_8811AU
-- AboCom_8178_92CU
-- AboCom_8189_92CU
-- Amigo_92CU
-- AzureWave_92CU
-- Belkin_1004_92CU
-- Belkin_1102_92CU
-- Belkin_2102_92CU
-- Belkin_2103_92CU
-- Belkin_92DUVS_1105
-- Belkin_92DUVS_110A
-- Belkin_92DUVS_120A
-- Belkin_F9L1106_v2_8812AU
-- Belkin_F9L1106v2_8812AU
-- Buffallo_25D_8812AU
-- Buffallo_433DM_8811AU</key>
-- Buffallo_WI_U2_433DHP_8811AU
-- Buffallo_WLP_U2_433DHP_8811AU
-- Compare-8010_92CU
-- Compare-8011_92CU
-- Corega_92CU
-- DLink_DWA121_92CU
-- DLink_DWA123_92CU
-- DLink_DWA131B1_92CU
-- DLink_DWA132_92CU
-- DLink_DWA133_92CU
-- DLink_DWA123_88EU
-- DLink_DWA125_88EU
-- DLink_DWA131C1_92EU
-- DLink_DWA131E_92EU
-- DLink_DWA171_8812AU
-- DLink_DWA182B1_8812AU
+- 8723BU - 8821A - ASUS_USB-N10E_92CU - ASUS_USB-N10_92CU - ASUS_USB-N13_92CU - ASUS_USB-AC56_8812AU - ASUS_USB-AC68_8814AU 
+- AboCom_0811_8812AU - AboCom_88EU - AboCom_AC_8812AU - Actiontec_8811AU - AirTies_Air2520_8811AU - AirTies_Air2525_8811AU
+- AboCom_8178_92CU - AboCom_8189_92CU - Amigo_92CU - AzureWave_92CU - Belkin_1004_92CU - Belkin_1102_92CU - Belkin_2102_92CU
+- Belkin_2103_92CU - Belkin_92DUVS_1105 - Belkin_92DUVS_110A - Belkin_92DUVS_120A - Belkin_F9L1106_v2_8812AU
+- Belkin_F9L1106v2_8812AU - Buffallo_25D_8812AU - Buffallo_433DM_8811AU</key> - Buffallo_WI_U2_433DHP_8811AU
+- Buffallo_WLP_U2_433DHP_8811AU - Compare-8010_92CU - Compare-8011_92CU - Corega_92CU - DLink_DWA121_92CU - DLink_DWA123_92CU - DLink_DWA131B1_92CU - DLink_DWA132_92CU - DLink_DWA133_92CU - DLink_DWA123_88EU - DLink_DWA125_88EU
+- DLink_DWA131C1_92EU - DLink_DWA131E_92EU - DLink_DWA171_8812AU - DLink_DWA182B1_8812AU
 - DLink_DWA182_8812AU
 - DLink_DWA192_8814AU
 - DLink_GO_USB_N150_88EU
