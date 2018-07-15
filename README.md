@@ -4,6 +4,10 @@
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
 #### Packages for Hackintosh PC or Laptop
+#### Working and testing adapter 
+- EDIMAX- EW-7722UTn V2 
+- EDIMAX N300
+- TRENDnet N150 Micro
 
 ##### You need a UEFI or ESP Clover installation to use this program, this does not install Clover, it will install only both kext RtWlanU1827.kext, RtWlanU.kext in the Other folder.
 This driver runs from OS X Mavericks 10.9 to macOS High Sierra 10.13.
