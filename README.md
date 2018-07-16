@@ -10,7 +10,7 @@
 - TRENDnet N150 Micro
 
 ##### You need a UEFI or ESP Clover installation to use this program, this does not install Clover, it will install only both kext RtWlanU1827.kext, RtWlanU.kext in the Other folder.
-This driver runs from OS X Mavericks 10.9 to macOS High Sierra 10.13.
+This driver runs from OS X Mavericks 10.9 to macOS Mojave 10.14.
 The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
 
 - Instructions:
