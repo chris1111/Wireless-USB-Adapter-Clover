@@ -4,7 +4,7 @@
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
 #### Packages for Hackintosh PC or Laptop
-#### Working and testing adapter 
+#### Known Working and testing adapter 
 - EDIMAX- EW-7722UTn V2 
 - EDIMAX N300
 - TRENDnet N150 Micro
