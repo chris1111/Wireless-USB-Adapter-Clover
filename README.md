@@ -37,6 +37,8 @@ The system is required to reboot after the driver is installed, so please close 
 #### - Support Drivers:
 - 8723BU
 - 8821AU
+- ArcherT4U V3
+- Archer T9UH V2
 - ASUS_USB-N10E_92CU
 - ASUS_USB-N10_92CU
 - ASUS_USB-N13_92CU
@@ -89,7 +91,9 @@ The system is required to reboot after the driver is installed, so please close 
 - ELECOM_WDC1300SU3_8814AU
 - ELECOM_WDC150SU2M_88EU
 - ELECOM_WDC433DU2_8812AU
-- ELECOM_WDC433SU2M2_8811AU	
+- ELECOM_WDC433SU2M2_8811AU
+- EDIMAX- EW-7722UTn V2 
+- EDIMAX N300
 - Edimax_AC1750_8814AU
 - Edimax_AC1750_A834_8814AU
 - Edimax_AC600_8812AU
@@ -174,6 +178,10 @@ The system is required to reboot after the driver is installed, so please close 
 - Sitecom_WLA2104_8812AU
 - Sitecom_WLA7100_8812AU
 - Sitecom_WLA8100_8814AU
+- TL-WN823Nv3
+- TL-WN725Nv3
+- TL-WN722Nv3
+- TL-WN821Nv6
 - TPLink_92CU
 - TPLink_821v5_92EU
 - TPLink_822v4_92EU
@@ -185,6 +193,7 @@ The system is required to reboot after the driver is installed, so please close 
 - TPLink_T4UH_8812AU
 - TPLink_T4U_8812AU
 - TPLink_T9UH_8814AU
+- TRENDnet N150 Micro
 - Trendnet_624D_92CU
 - Trendnet_648B_92CU
 - Trendnet_92DUVS
