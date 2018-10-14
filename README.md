@@ -8,6 +8,13 @@
 - EDIMAX- EW-7722UTn V2 
 - EDIMAX N300
 - TRENDnet N150 Micro
+- TL-WN823Nv3
+- TL-WN725Nv3
+- TL-WN722Nv3
+- TL-WN821Nv6
+- ArcherT4U V3
+- Archer T9UH V2
+
 
 ##### You need a UEFI or ESP Clover installation to use this program, this does not install Clover, it will install only both kext RtWlanU1827.kext, RtWlanU.kext in the Other folder.
 This driver runs from OS X Mavericks 10.9 to macOS Mojave 10.14.
@@ -25,7 +32,7 @@ The system is required to reboot after the driver is installed, so please close 
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/156.png)
 
-#### Download the Latest Release [➤ Wireless USB Adapter Clover.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V1)
+#### Download the Latest Release [➤ Wireless USB Adapter Clover-V2.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V2)
 
 #### - Support Drivers:
 - 8723BU
