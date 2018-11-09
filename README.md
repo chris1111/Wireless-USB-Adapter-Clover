@@ -1,6 +1,5 @@
 # Welcome to Wireless USB Adapter Clover
 
-
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
 #### Packages for Hackintosh PC or Laptop
@@ -33,6 +32,8 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/156.png)
 
 #### Download the Latest Release [➤ Wireless USB Adapter Clover-V2.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V2)
+
+## For real Mac go to this page https://github.com/chris1111/Wireless-USB-Adapter
 
 #### - Support Drivers:
 - 8723BU
