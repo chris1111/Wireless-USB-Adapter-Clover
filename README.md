@@ -35,8 +35,9 @@ The system is required to reboot after the driver is installed, so please close 
 
 #### For real Mac go to this page https://github.com/chris1111/Wireless-USB-Adapter
 
-#### - Support Drivers:<details> 
-  <summary>  </summary>
+#### - Support Drivers:
+<details> 
+  <summary>View list  </summary>
 - 8723BU
 - 8821AU
 - ArcherT4U V3
