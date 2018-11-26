@@ -13,6 +13,7 @@
 - TL-WN821Nv6
 - ArcherT4U V3
 - Archer T9UH V2
+- Linksys WUSB6300
 
 #### Support Drivers:
 <details> 
