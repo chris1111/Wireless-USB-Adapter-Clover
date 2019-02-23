@@ -396,9 +396,9 @@ The system is required to reboot after the driver is installed, so please close 
     - 5. Configure the settings.
     - 6. Click the "Save" button.
  
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu406.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen94.png)
 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/156.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/122.png)
 
 #### Download the Latest Release [➤ Wireless USB Adapter Clover-V5.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V5)
 
