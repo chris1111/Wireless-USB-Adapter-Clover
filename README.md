@@ -400,7 +400,6 @@ The system is required to reboot after the driver is installed, so please close 
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/122.png)
 
-#### Download the Latest Release [➤ Wireless USB Adapter Clover-V7.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V7)
 
 #### Download the older Release [➤ Wireless USB Adapter Clover-V6.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V6)
 
