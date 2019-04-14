@@ -3,6 +3,7 @@
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
 - Credit: [Realtek](https://www.realtek.com/en/)
+- Credit: [Clover Team](https://sourceforge.net/p/cloverefiboot/code/HEAD/tree/)
 
 #### Packages for Hackintosh PC or Laptop
 #### Known Working and testing adapter 
