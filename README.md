@@ -5,6 +5,8 @@
 - Credit: [Realtek](https://www.realtek.com/en/)
 - Credit: [Clover Team](https://sourceforge.net/p/cloverefiboot/code/HEAD/tree/)
 
+- Testing latest macOS Mojave 10.14.5 (18F108f) [My result ➣ ](https://i25.servimg.com/u/f25/18/50/18/69/captu612.png)
+
 #### Packages for Hackintosh PC or Laptop
 #### Known Working and testing adapter 
 - EDIMAX- EW-7722UTn V2 
