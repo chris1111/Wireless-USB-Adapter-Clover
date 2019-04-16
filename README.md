@@ -1,5 +1,8 @@
 # Welcome to Wireless USB Adapter Clover
 
+- Update 16 April 2019 
+New drivers and new StatusBarApp.app
+
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
 - Credit: [Realtek](https://www.realtek.com/en/)
@@ -405,6 +408,8 @@ The system is required to reboot after the driver is installed, so please close 
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
+
+#### Download the latest Release [➤ Wireless USB Adapter Clover-V7.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases)
 
 #### Download the latest Release [➤ Wireless USB Adapter Clover-V6.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V6)
 
