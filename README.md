@@ -1,6 +1,8 @@
 # Welcome to Wireless USB Adapter Clover
 
-- Update 16 April 2019 
+- Update 08 June 2019 
+- Support macOS Catalina 10.15
+
 New drivers and new StatusBarApp.app
 
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
