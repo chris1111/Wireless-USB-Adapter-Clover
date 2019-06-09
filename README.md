@@ -22,6 +22,7 @@ New drivers and new StatusBarApp.app
 - TL-WN725Nv3
 - TL-WN722Nv3
 - TL-WN821Nv6
+- Archer T2U NANO
 - ArcherT4U V3
 - Archer T9UH V2
 - Linksys WUSB6300
@@ -337,6 +338,8 @@ New drivers and new StatusBarApp.app
 - Sitecom_WLA7100_8812AU
 
 - Sitecom_WLA8100_8814AU
+
+- TPLink-Archer_T2U_NANO
 
 - TL-WN823Nv3
 
