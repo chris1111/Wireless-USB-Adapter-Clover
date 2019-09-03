@@ -398,6 +398,8 @@ New drivers and new StatusBarApp.app
 
 
 ##### You need a UEFI or ESP Clover installation to use this program, this does not install Clover, it will install only both kext RtWlanU1827.kext, RtWlanU.kext in the Other folder.
+
+##### You must have set injectkexts to Yes in the Clover config.plist
 This driver runs from OS X Mavericks 10.9 to macOS Catalina 10.15.
 The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
 
