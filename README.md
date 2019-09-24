@@ -10,25 +10,25 @@
 
 - Testing macOS Catalina 10.15 (19A512f) [See ➣ My result](https://i25.servimg.com/u/f25/18/50/18/69/captu781.png)
 
-#### Packages for Hackintosh PC or Laptop
 #### Known Working and testing adapter 
-- EDIMAX- EW-7722UTn V2 
+- Archer T2U NANO
+- ArcherT4U V3
+- Archer T9UH V2
+- ASUS USB AC68
+- EDIMAX EW-7722UTn V2 
 - EDIMAX N300
-- TRENDnet N150 Micro
+- Linksys WUSB6300
 - TL-WN823Nv3
 - TL-WN823Nv2
 - TL-WN725Nv3
 - TL-WN722Nv3
 - TL-WN821Nv6
-- Archer T2U NANO
-- ArcherT4U V3
-- Archer T9UH V2
-- Linksys WUSB6300
+- TRENDnet N150 Micro
 
 #### Support Drivers:
 <details> 
   <summary>View list  </summary>
-
+	
 - ASUS_USB-N10E_92CU
 
 - ASUS_USB-N13_92CU
@@ -390,9 +390,7 @@
 - ZyXEL_92CU
 		
 		
-
 </details>
-
 
 
 ### You need a UEFI or ESP Clover installation to use this program, this does not install Clover, it will install only both kext RtWlanU1827.kext, RtWlanU.kext in the Other folder. 
