@@ -11,8 +11,7 @@
 - Testing macOS Catalina 10.15 (19A512f) [See ➣ My result](https://i25.servimg.com/u/f25/18/50/18/69/captu781.png)
 
 ### For macOS Catalina 10.15
-### You need the SIP (Syetem Integrity Protection) disable and the Gatekeeper
-- Maybe soon you will be able to use the program with the SIP enable but you have to wait for them to develop from Realtek
+- Working with SIP Enable but you need the Gatekeeper disable 
 
 
 #### Known Working and testing adapter 
