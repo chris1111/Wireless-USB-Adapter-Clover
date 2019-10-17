@@ -1,5 +1,5 @@
 # Welcome to Wireless USB Adapter Clover
- ### Support macOS Catalina 10.15
+ ### Support macOS Catalina 10.15, macOS Mojave 10.14
 
 - Update 17 Sept 2019 New Driver + New StatusBarApp
 
@@ -404,7 +404,7 @@
 
 
 
-This driver runs from OS X Mavericks 10.9 to macOS Catalina 10.15.
+This driver runs from macOS Mojave 10.14 to macOS Catalina 10.15.
 The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
 
 - Instructions:
