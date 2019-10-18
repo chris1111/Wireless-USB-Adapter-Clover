@@ -17,6 +17,7 @@
 #### Known Working and testing adapter 
 - Archer T2U NANO
 - ArcherT4U V3
+- Archer T3U
 - Archer T9UH V2
 - ASUS USB AC68
 - EDIMAX EW-7722UTn V2 
