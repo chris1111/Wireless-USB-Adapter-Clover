@@ -16,12 +16,13 @@
 
 #### Known Working and testing adapter 
 - Archer T2U NANO
-- ArcherT4U V3
 - Archer T3U
+- ArcherT4U V3
 - Archer T9UH V2
 - ASUS USB AC68
 - EDIMAX EW-7722UTn V2 
 - EDIMAX N300
+- EDIMAX EW-7811Un
 - Linksys WUSB6300
 - TL-WN823Nv3
 - TL-WN823Nv2
@@ -175,6 +176,8 @@
 - EDIMAX- EW-7722UTn V2 
 
 - EDIMAX N300
+
+- EDIMAX EW-7811Un
 
 - Edimax_AC1750_8814AU
 
@@ -395,6 +398,7 @@
 - ZyXEL_92CU
 		
 		
+
 </details>
 
 
