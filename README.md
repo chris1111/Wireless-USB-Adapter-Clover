@@ -20,7 +20,8 @@
 - ArcherT4U V3
 - Archer T9UH V2
 - ASUS USB AC68
-- EDIMAX EW-7722UTn V2 
+- EDIMAX EW-7722UTn V2
+- EDIMAX_EW-7822ULC
 - EDIMAX N300
 - EDIMAX EW-7811Un
 - Linksys WUSB6300
@@ -190,6 +191,8 @@
 - Edimax_EW-7811UAC_8812AU
 
 - Edimax_EW-7822UAC_8812AU
+
+- Edimax_EW-7822ULC_8812AU
 
 - Edimax_GLP_8812AU
 
@@ -398,7 +401,6 @@
 - ZyXEL_92CU
 		
 		
-
 </details>
 
 
