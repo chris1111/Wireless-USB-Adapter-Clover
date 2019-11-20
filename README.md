@@ -25,6 +25,7 @@
 - EDIMAX N300
 - EDIMAX EW-7811Un
 - Linksys WUSB6300
+- Netgear A7000
 - Sitecom WLA7100
 - TL-WN823Nv3
 - TL-WN823Nv2
@@ -235,13 +236,13 @@
 
 - Loopcomm_ACA1_8812AU
 
+- Netgear_A7000
+
 - Netgear_N300MA_92CU
 
 - Netgear_WNA1000M_92CU
 
 - Netgear_WNA3100M_92CU
-
-- NetweeN_91_92CU
 
 - Netgear_A6100_8812AU
 
@@ -400,9 +401,10 @@
 - ZyXEL_AC_8812AU
 
 - ZyXEL_92CU
-		
-		
+				
+
 </details>
+
 
 
 ### You need a UEFI or ESP Clover installation to use this program, this does not install Clover, it will install only both kext RtWlanU1827.kext, RtWlanU.kext in the Other folder. 
