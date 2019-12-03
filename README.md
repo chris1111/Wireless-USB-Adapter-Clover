@@ -32,6 +32,7 @@
 - TL-WN725Nv3
 - TL-WN722Nv3
 - TL-WN821Nv6
+- TL-WN822Nv5
 - TRENDnet N150 Micro
 
 #### Support Drivers:
