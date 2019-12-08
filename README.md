@@ -25,6 +25,7 @@
 - EDIMAX N300
 - EDIMAX EW-7811Un
 - Linksys WUSB6300
+- Linksys WUSB6400M
 - Netgear A7000
 - Sitecom WLA7100
 - TL-WN823Nv3
