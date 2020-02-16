@@ -1,5 +1,4 @@
-<a href="https://www.paypal.com/donate/?token=-vQq2RXt1LU2c5B4Umq0Hp2WCd6HtRrPQTvaVp_BQJWgTirjNjhnKq0-4DK_j14bgKnFvm&country.x=CA&locale.x=en_CA" />
-<img align="right" width="300" height="140" src="https://i25.servimg.com/u/f25/18/50/18/69/paypal18.png">
+
 
 
 ## Welcome to Wireless USB Adapter Clover
