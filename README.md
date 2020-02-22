@@ -14,7 +14,7 @@ Release Update 29 Nov 2019 New drivers for macOS Catalina 10.15
 
 - Testing macOS Catalina 10.15 (19A512f) [See ➣ My result](https://i25.servimg.com/u/f25/18/50/18/69/captu781.png)
 
-- Thanks to airomeo for Translation(Simplified Chinese)[ zh-Hans for Wireless Utility](https://github.com/chris1111/Wireless-USB-Adapter/issues/44#issuecomment-589582148)
+#### Thanks to airomeo for Translation(Simplified Chinese)[ zh-Hans for Wireless Utility](https://github.com/chris1111/Wireless-USB-Adapter/issues/44#issuecomment-589582148)
 
 ### For macOS Catalina 10.15
 - Working with SIP Enable but you need the Gatekeeper disable 
