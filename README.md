@@ -439,16 +439,17 @@ The system is required to reboot after the driver is installed, so please close 
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
+#### Download latest Release [➤ Wireless USB Adapter Clover-V12.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V12)
 
-#### Download latest Release [➤ Wireless USB Adapter Clover-V11.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V11)
+#### Download Release [➤ Wireless USB Adapter Clover-V11.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V11)
 
-#### Download latest Release [➤ Wireless USB Adapter Clover-V10.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V10)
+#### Download Release [➤ Wireless USB Adapter Clover-V10.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V10)
 
-#### Download latest Release [➤ Wireless USB Adapter Clover-V9.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V9)
+#### Download Release [➤ Wireless USB Adapter Clover-V9.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V9)
 
-#### Download latest Release [➤ Wireless USB Adapter Clover-V8.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V8)
+#### Download Release [➤ Wireless USB Adapter Clover-V8.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V8)
 
-#### Download latest Release [➤ Wireless USB Adapter Clover-V7.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V7)
+#### Download Release [➤ Wireless USB Adapter Clover-V7.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V7)
 
 #### Download Release [➤ Wireless USB Adapter Clover-V6.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V6)
 
