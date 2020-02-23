@@ -4,7 +4,7 @@
 ## Welcome to Wireless USB Adapter Clover
  ### Support macOS Catalina 10.15, macOS Mojave 10.14, macOS High Sierra 10.13, macOS Sierra 10.12, OS X El Capitan 10.11, OS X Yosemite 10.10, OS X Mavericks 10.9
 
-Release Update 29 Nov 2019 New drivers for macOS Catalina 10.15
+Release Update 23 Fev 2020 Adapted for macOS Catalina 10.15.4
 
 
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
