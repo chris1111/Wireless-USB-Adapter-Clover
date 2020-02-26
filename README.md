@@ -4,7 +4,7 @@
 ## Welcome to Wireless USB Adapter Clover
  ### Support macOS Catalina 10.15, macOS Mojave 10.14, macOS High Sierra 10.13, macOS Sierra 10.12, OS X El Capitan 10.11, OS X Yosemite 10.10, OS X Mavericks 10.9
 
-Release Update 23 Feb 2020 Adapted for macOS Catalina 10.15.4
+Release Update 25 Feb 2020 Better package configuration
 
 
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
@@ -439,7 +439,10 @@ The system is required to reboot after the driver is installed, so please close 
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
-#### Download latest Release [➤ Wireless USB Adapter Clover-V12.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V12)
+#### Download latest Release [➤ Wireless USB Adapter Clover-V13.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V13)
+- Release V13 Update 25 Feb 2020 Better package configuration
+
+#### Download Release [➤ Wireless USB Adapter Clover-V12.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V12)
 
 #### Download Release [➤ Wireless USB Adapter Clover-V11.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V11)
 
