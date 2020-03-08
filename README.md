@@ -455,14 +455,13 @@ The system is required to reboot after the driver is installed, so please close 
 
 #### Download Release [➤ Wireless USB Adapter Clover-V8.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V8)
 
-#### Download Release [➤ Wireless USB Adapter Clover-V7.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V7)
-
-#### Download Release [➤ Wireless USB Adapter Clover-V6.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V6)
-
-
-
-
 
 #### For real Mac go to this page https://github.com/chris1111/Wireless-USB-Adapter
+
+## See video How to change the WIFI Icons ⬇︎
+[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/76169102-84ff8080-614b-11ea-905f-4d10f7081262.png)](https://youtu.be/54o1UMAycyQ)
+
+### Download [➤ WIFI Icon Collor.pkg ](https://raw.githubusercontent.com/chris1111/Wireless-USB-Adapter-Clover/master/WIFI%20Icon%20Collor.zip)
+
 
 
