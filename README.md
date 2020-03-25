@@ -26,7 +26,7 @@ Release Update 07 March 2020 New Driver and Utility
 - ArcherT4U V3
 - Archer T9UH V2
 - ASUS USB AC68
-- Asus USB-N13
+- ASUS USB-N13
 - EDIMAX EW-7722UTn V2
 - EDIMAX_EW-7822ULC
 - EDIMAX N300
