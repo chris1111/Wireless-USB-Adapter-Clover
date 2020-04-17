@@ -46,7 +46,7 @@ Release Update 07 March 2020 New Driver and Utility
 - TL-WN822Nv5
 - TRENDnet N150 Micro
 
-#### Support Drivers:
+## Support Drivers: (Adapter)
 <details> 
   <summary>View list  </summary>
 	
