@@ -32,7 +32,7 @@ Release Update 07 March 2020 New Driver and Utility
 - EDIMAX_EW-7822ULC
 - EDIMAX EW-7612Uan V2
 - EDIMAX N300
-- EDIMAX EW-7811Un
+- EDIMAX EW-7811Un (N150)
 - Linksys WUSB6300
 - Linksys WUSB6400M
 - Netgear A7000
