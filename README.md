@@ -442,7 +442,11 @@ The system is required to reboot after the driver is installed, so please close 
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
-#### Download Latest Release [➤ Wireless USB Adapter Clover-V14.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V14)
+#### Download Latest Release [➤ Wireless USB Adapter Clover-V15.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V15)
+- Update 01 June 2020 New Driver and Utility
+- Note: The USB WIFI can be connected after the reboot with this drivers
+
+#### Download Release [➤ Wireless USB Adapter Clover-V14.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V14)
 - Release Update 07 March 2020 New Driver and Utility
 
 #### Download Release [➤ Wireless USB Adapter Clover-V13.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/v13)
