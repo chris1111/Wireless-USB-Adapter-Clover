@@ -421,6 +421,7 @@
 
 </details>
 
+### NOTE: this program is not responsible for any damage or machine that does not boot anymore.
 
 
 ### You need a UEFI or ESP Clover installation to use this program, this does not install Clover, it will install only both kext RtWlanU1827.kext, RtWlanU.kext in the Other folder. 
