@@ -49,6 +49,7 @@
 - TL-WN821Nv6
 - TL-WN822Nv5
 - TRENDnet N150 Micro
+- TRENDnet TEW-908UB
 
 ## Support Drivers: (Adapter)
 <details> 
