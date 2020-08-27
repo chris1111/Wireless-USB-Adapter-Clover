@@ -23,6 +23,7 @@
 
 
 #### Known Working and testing adapter 
+- Alfa AWUS036ACH
 - Archer T2U NANO
 - Archer T2U MINI V3
 - Archer T3U
