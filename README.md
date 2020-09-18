@@ -6,7 +6,7 @@
  
 #### For macOS Big Sur 11 go to this page https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter
 
-- Release Update 01 June 2020 New Driver and Utility Note: The USB WIFI can be connected after the reboot with this drivers
+- Update Release V16 18 Sept 2020 new Wifi Icon
 
 
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
@@ -449,7 +449,10 @@ The system is required to reboot after the driver is installed, so please close 
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
-#### Download Latest Release [➤ Wireless USB Adapter Clover-V15.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V15)
+#### Download Latest Release [➤ Wireless USB Adapter Clover-V16.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V16)
+- Update 18 Sept 2020 new Wifi Icon
+
+#### Download Release [➤ Wireless USB Adapter Clover-V15.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V15)
 - Update 01 June 2020 New Driver and Utility
 - Note: The USB WIFI can be connected after the reboot with this drivers
 
