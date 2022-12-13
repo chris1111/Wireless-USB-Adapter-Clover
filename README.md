@@ -9,7 +9,7 @@
 
  
 
-- Update Release V16 18 Sept 2020 new Wifi Icon
+- Update 13 Dec 2022 Release V17 Fix issue
 
 
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
@@ -452,28 +452,8 @@ The system is required to reboot after the driver is installed, so please close 
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
-#### Download Latest Release [➤ Wireless USB Adapter Clover-V16.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V16)
-- Update 18 Sept 2020 new Wifi Icon
-
-#### Download Release [➤ Wireless USB Adapter Clover-V15.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V15)
-- Update 01 June 2020 New Driver and Utility
-- Note: The USB WIFI can be connected after the reboot with this drivers
-
-#### Download Release [➤ Wireless USB Adapter Clover-V14.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V14)
-- Release Update 07 March 2020 New Driver and Utility
-
-#### Download Release [➤ Wireless USB Adapter Clover-V13.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/v13)
-- Release V13 Update 25 Feb 2020 Better package configuration
-
-#### Download Release [➤ Wireless USB Adapter Clover-V12.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V12)
-
-#### Download Release [➤ Wireless USB Adapter Clover-V11.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V11)
-
-#### Download Release [➤ Wireless USB Adapter Clover-V10.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V10)
-
-#### Download Release [➤ Wireless USB Adapter Clover-V9.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V9)
-
-#### Download Release [➤ Wireless USB Adapter Clover-V8.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V8)
+#### Download Latest Release [➤ Wireless USB Adapter Clover-V17.pkg ](https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V17)
+- Update 13 Dec 2022 Release V17 Fix issue
 
 
 #### For real Mac go to this page https://github.com/chris1111/Wireless-USB-Adapter
