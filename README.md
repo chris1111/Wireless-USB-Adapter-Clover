@@ -5,7 +5,7 @@
 
 ### Support macOS Catalina 10.15, macOS Mojave 10.14, macOS High Sierra 10.13, macOS Sierra 10.12, OS X El Capitan 10.11, OS X Yosemite 10.10, OS X Mavericks 10.9
 
-### New ➤ [macOS 11, 12, 13](https://github.com/chris1111/WirelessAdapterCloverBigSur)
+### New ➤ [macOS 10.15 11, 12, 13, 14](https://github.com/chris1111/WirelessAdapterCloverBigSur)
 
  
 
